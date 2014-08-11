@@ -1,6 +1,5 @@
 import sys
 from PySide.QtGui import *
-from PySide.QtCore import *
 
 
 app = QApplication(sys.argv)

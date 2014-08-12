@@ -22,5 +22,4 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     form = Form()
     form.show()
-
     sys.exit(app.exec_())

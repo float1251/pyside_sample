@@ -1,5 +1,3 @@
-__author__ = 't-iwatani'
-
 import sys
 from PySide.QtCore import *
 from PySide.QtGui import *
